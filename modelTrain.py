@@ -1,4 +1,4 @@
-# useChatGPT for overall structure and debugging env errors and different sized array errors
+# used ChatGPT for overall structure and debugging env errors and different sized array errors
 
 import pandas as pd
 import matplotlib.pyplot as plt
