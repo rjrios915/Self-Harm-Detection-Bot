@@ -6,3 +6,5 @@ Designed to take in text and predicts the three different levels of self harm ri
 - No Risk
 - Moderate Risk
 - High Risk
+
+Accompanies an automated Discord bot.
